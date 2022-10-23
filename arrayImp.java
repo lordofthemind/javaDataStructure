@@ -1,4 +1,4 @@
-public class array {
+public class arrayImp {
     public static void main(String[] args){
         //Creation and Implementation of 1D array
         System.out.println("1D Array");

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class arraySort {
+public class arrayOpr {
 
     public static void search(int array[], int key){
         for(int i=0; i<array.length; i++){
