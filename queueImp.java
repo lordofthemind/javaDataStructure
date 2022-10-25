@@ -78,7 +78,7 @@ public class queueImp {
                     break;
                     
                 default:
-                    System.out.println("Choose valid ption!!");
+                    System.out.println("Choose valid option!!");
                     break;
             }
             System.out.println("Choose your option:");

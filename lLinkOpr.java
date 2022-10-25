@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.Iterator;
 import java.util.Scanner;
+
 public class lLinkOpr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
